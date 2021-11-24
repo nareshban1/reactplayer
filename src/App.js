@@ -2,7 +2,7 @@ import { Logo, MainContainer, Player } from "./AppStyles";
 import LinkInput from "./components/LinkInput/LinkInput";
 import ReactVideoPlayer from "./components/VideoPlayer/VideoPlayer";
 import React, { useState } from 'react'
-import ReactPlayer from "react-player";
+
 
 function App() {
 
