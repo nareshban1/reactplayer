@@ -8,6 +8,7 @@ export const MainContainer = styled.div`
     max-width: 968px;
     display: flex;
     flex-direction:column;
+    justify-content: center;
     margin: 0 auto;
     box-sizing: border-box;
     
